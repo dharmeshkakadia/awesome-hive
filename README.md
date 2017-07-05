@@ -16,6 +16,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ## Execution Engines
 * [Tez](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Tez)
 * MapReduce
+* [LLAP](https://cwiki.apache.org/confluence/display/Hive/LLAP)
 * [Spark](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 
 ## Storage Hadndlers
@@ -39,6 +40,10 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 
 
 ## Client Libraries
+* JDBC
+* ODBC
+* [Python](https://github.com/dropbox/PyHive)
+* [Clojure ](https://github.com/bmuller/clive)
 
 ## UI
 
