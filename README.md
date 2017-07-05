@@ -14,6 +14,9 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * https://github.com/stewi2/hive-udfs
 
 ## Execution Engines
+* [Tez](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Tez)
+* MapReduce
+* [Spark](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 
 ## Storage Hadndlers
 * [Kafka](https://github.com/HiveKa/HiveKa)
@@ -39,11 +42,26 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 
 ## UI
 
+## Tools 
+* [Database manager for Hive](https://github.com/flaminem/flamy)
+
 ## Integrations
 
 ## Benchmarks
+* [TPCH](https://github.com/dharmeshkakadia/tpcds-datagen-as-hive-query)
+* [TPCDS](https://github.com/dharmeshkakadia/tpcds-datagen-as-hive-query)
+* [TPCxBB/BigBench](http://www.tpc.org/tpcx-bb/default.asp)
 
-##Where to look for more?
+## Benchmark Kits
+* [HivePerformanceAutomation](https://github.com/hdinsight/HivePerformanceAutomation)
+* [hive-testbench](https://github.com/hortonworks/hive-testbench)
+
+## Cloud offerings
+* [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/)
+* [Amazon EMR](https://aws.amazon.com/emr/)
+* [Google Dataproc](https://cloud.google.com/dataproc/)
+
+## Where to look for more?
 * https://cwiki.apache.org/confluence/display/Hive/Presentations
 
 ## Books
