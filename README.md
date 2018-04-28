@@ -50,6 +50,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ## Tools 
 * [Database manager for Hive](https://github.com/flaminem/flamy)
 * [Warehouse replicator](https://github.com/airbnb/reair)
+* [Waggle Dance - Hive federation service](https://github.com/HotelsDotCom/waggle-dance)
 
 ## Integrations
 
