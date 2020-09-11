@@ -68,6 +68,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Database manager for Hive](https://github.com/flaminem/flamy)
 * [Warehouse replicator](https://github.com/airbnb/reair)
 * [Waggle Dance - Hive federation service](https://github.com/HotelsDotCom/waggle-dance)
+* [Circus Train - dataset replication tool between clusters and clouds](https://github.com/HotelsDotCom/circus-train)
 
 ## Integrations
 * [apiary](https://github.com/ExpediaGroup/apiary)
