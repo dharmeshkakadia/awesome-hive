@@ -69,7 +69,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ## Benchmarks
 * [TPCH](https://github.com/dharmeshkakadia/tpch-datagen-as-hive-query)
 * [TPCDS](https://github.com/dharmeshkakadia/tpcds-datagen-as-hive-query)
-* [TPCxBB/BigBench](http://www.tpc.org/tpcx-bb/default.asp)
+* [TPCxBB/BigBench](http://www.tpc.org/tpcx-bb/default5.asp)
 
 ## Benchmark Kits
 * [HivePerformanceAutomation](https://github.com/hdinsight/HivePerformanceAutomation)
