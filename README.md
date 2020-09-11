@@ -6,6 +6,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Client Libraries](#client-libraries)
 * [UI](#ui)
 * [Metastore tools](#metastore-tools)
+* [Data Replication Tools](#data-replication-tools)
 * [Tools](#tools)
 * [Integrations](#integrations)
 * [Benchmarks](#benchmarks)
@@ -64,11 +65,14 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Drone Fly - distributed Hive metastore events forwarder service](https://github.com/ExpediaGroup/drone-fly)
 * [Shunting Yard - real-time data replication between Hive Metastores](https://github.com/ExpediaGroup/shunting-yard)
 
+## Data Replication Tools
+* [Warehouse replicator](https://github.com/airbnb/reair)
+* [Circus Train - dataset replication tool between clusters and clouds](https://github.com/HotelsDotCom/circus-train)
+* [Dumping Machine](https://github.com/grupozap/dumping-machine)
+
 ## Tools 
 * [Database manager for Hive](https://github.com/flaminem/flamy)
-* [Warehouse replicator](https://github.com/airbnb/reair)
 * [Waggle Dance - Hive federation service](https://github.com/HotelsDotCom/waggle-dance)
-* [Circus Train - dataset replication tool between clusters and clouds](https://github.com/HotelsDotCom/circus-train)
 
 ## Integrations
 * [apiary](https://github.com/ExpediaGroup/apiary)
