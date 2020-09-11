@@ -5,6 +5,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Execution Engines](#execution-engines)
 * [Client Libraries](#client-libraries)
 * [UI](#ui)
+* [Metastore tools](#metastore-tools)
 * [Tools](#tools)
 * [Integrations](#integrations)
 * [Benchmarks](#benchmarks)
@@ -58,6 +59,9 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Clojure ](https://github.com/bmuller/clive)
 
 ## UI
+
+## Metastore Tools
+* [Drone Fly - distributed Hive metastore events forwarder service](https://github.com/ExpediaGroup/drone-fly)
 
 ## Tools 
 * [Database manager for Hive](https://github.com/flaminem/flamy)
