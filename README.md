@@ -62,6 +62,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 
 ## Metastore Tools
 * [Drone Fly - distributed Hive metastore events forwarder service](https://github.com/ExpediaGroup/drone-fly)
+* [Shunting Yard - real-time data replication between Hive Metastores](https://github.com/ExpediaGroup/shunting-yard)
 
 ## Tools 
 * [Database manager for Hive](https://github.com/flaminem/flamy)
