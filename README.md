@@ -76,6 +76,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Dumping Machine](https://github.com/grupozap/dumping-machine)
 
 ### Deployment
+* [KDP - Kubernets-Data-Platform](https://github.com/smartcitiesdata/kdp)
 
 ### Unsorted
 * [Database manager for Hive](https://github.com/flaminem/flamy)
