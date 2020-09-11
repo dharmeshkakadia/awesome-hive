@@ -87,6 +87,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ## Integrations
 * [apiary](https://github.com/ExpediaGroup/apiary)
 * [beekeeper - service for automatically managing and cleaning up unreferenced data](https://github.com/ExpediaGroup/beekeeper)
+* [cube.js](https://github.com/cube-js/cube.js)
 
 ## Benchmarks
 * [TPCH](https://github.com/dharmeshkakadia/tpch-datagen-as-hive-query)
