@@ -3,7 +3,7 @@ name: awesome-bot
 on: [push]
 
 jobs:
-  build:
+  awesome-bot-link-check:
 
     runs-on: ubuntu-latest
 
