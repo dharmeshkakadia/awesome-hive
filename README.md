@@ -5,15 +5,17 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Execution Engines](#execution-engines)
 * [Client Libraries](#client-libraries)
 * [UI](#ui)
-* [Metastore tools](#metastore-tools)
-* [Data Replication Tools](#data-replication-tools)
 * [Tools](#tools)
+  * [Metastore tools](#metastore-tools)
+  * [Data Replication Tools](#data-replication-tools)
+  * [Deployment](#deployment)
+  * [Unsorted](#unsorted)
 * [Integrations](#integrations)
 * [Benchmarks](#benchmarks)
 * [Benchmark Kits](#benchmark-kits)
 * [Cloud offerings](#cloud-offerings)
 * [Resources](#resources)
-* [Unsorted](#unsorted)
+
 
 ## UDFs (User Defined Functions)
 * http://nexr.github.io/hive-udf/
@@ -61,16 +63,21 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 
 ## UI
 
-## Metastore Tools
+
+## Tools 
+
+### Metastore Tools
 * [Drone Fly - distributed Hive metastore events forwarder service](https://github.com/ExpediaGroup/drone-fly)
 * [Shunting Yard - real-time data replication between Hive Metastores](https://github.com/ExpediaGroup/shunting-yard)
 
-## Data Replication Tools
+### Data Replication Tools
 * [Warehouse replicator](https://github.com/airbnb/reair)
 * [Circus Train - dataset replication tool between clusters and clouds](https://github.com/HotelsDotCom/circus-train)
 * [Dumping Machine](https://github.com/grupozap/dumping-machine)
 
-## Tools 
+### Deployment
+
+### Unsorted
 * [Database manager for Hive](https://github.com/flaminem/flamy)
 * [Waggle Dance - Hive federation service](https://github.com/HotelsDotCom/waggle-dance)
 
