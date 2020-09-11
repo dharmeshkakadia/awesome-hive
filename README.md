@@ -9,6 +9,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
   * [Metastore tools](#metastore-tools)
   * [Data Replication Tools](#data-replication-tools)
   * [Deployment](#deployment)
+  * [Testing](#testing)
   * [Unsorted](#unsorted)
 * [Integrations](#integrations)
 * [Benchmarks](#benchmarks)
@@ -79,6 +80,9 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ### Deployment
 * [KDP - Kubernets-Data-Platform](https://github.com/smartcitiesdata/kdp)
 * [hive metasotre on staroid(Managed Kubernetes)](https://github.com/open-datastudio/hive-metastore)
+
+### Testing
+* [Datafaker](https://github.com/gangly/datafaker)
 
 ### Unsorted
 * [Database manager for Hive](https://github.com/flaminem/flamy)
