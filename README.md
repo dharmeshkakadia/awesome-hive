@@ -60,6 +60,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * ODBC
 * [Python](https://github.com/dropbox/PyHive)
 * [Clojure ](https://github.com/bmuller/clive)
+* [Go Client for Hive Metastore](https://github.com/akolb1/gometastore)
 
 ## UI
 
