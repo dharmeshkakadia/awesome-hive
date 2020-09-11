@@ -78,6 +78,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 
 ### Deployment
 * [KDP - Kubernets-Data-Platform](https://github.com/smartcitiesdata/kdp)
+* [hive metasotre on staroid(Managed Kubernetes)](https://github.com/open-datastudio/hive-metastore)
 
 ### Unsorted
 * [Database manager for Hive](https://github.com/flaminem/flamy)
