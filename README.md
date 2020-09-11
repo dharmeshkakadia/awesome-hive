@@ -1,6 +1,18 @@
 # awesome-hive
 Everything about [Apache Hive](https://hive.apache.org) that is awesome 
 
+* [UDFs](#udfs-user-defined-functions)
+* [Execution Engines](#execution-engines)
+* [Client Libraries](#client-libraries)
+* [UI](#ui)
+* [Tools](#tools)
+* [Integrations](#integrations)
+* [Benchmarks](#benchmarks)
+* [Benchmark Kits](#benchmark-kits)
+* [Cloud offerings](#cloud-offerings)
+* [Resources](#resources)
+* [Unsorted](#unsorted)
+
 ## UDFs (User Defined Functions)
 * http://nexr.github.io/hive-udf/
 * https://github.com/Netflix/Surus
@@ -68,7 +80,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Amazon EMR](https://aws.amazon.com/emr/)
 * [Google Dataproc](https://cloud.google.com/dataproc/)
 
-## Where to look for more?
+## Resources
 * https://cwiki.apache.org/confluence/display/Hive/Presentations
 
 ## Books
