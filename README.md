@@ -61,6 +61,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Python](https://github.com/dropbox/PyHive)
 * [Clojure ](https://github.com/bmuller/clive)
 * [Go Client for Hive Metastore](https://github.com/akolb1/gometastore)
+* [hclient - stand alone Thrift HMS client and benchmarking tools](https://github.com/akolb1/hclient)
 
 ## UI
 
