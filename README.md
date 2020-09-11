@@ -16,6 +16,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Cloud offerings](#cloud-offerings)
 * [Resources](#resources)
 
+[test](http://test.in/)
 
 ## UDFs (User Defined Functions)
 * http://nexr.github.io/hive-udf/
