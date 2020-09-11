@@ -70,6 +70,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 * [Waggle Dance - Hive federation service](https://github.com/HotelsDotCom/waggle-dance)
 
 ## Integrations
+* [apiary](https://github.com/ExpediaGroup/apiary)
 
 ## Benchmarks
 * [TPCH](https://github.com/dharmeshkakadia/tpch-datagen-as-hive-query)
