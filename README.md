@@ -84,6 +84,7 @@ Everything about [Apache Hive](https://hive.apache.org) that is awesome
 ### Testing
 * [Datafaker](https://github.com/gangly/datafaker)
 * [HiveRunner](https://github.com/klarna/HiveRunner)
+* [Beeju - JUnit rules for testing Metastore Thrift API](https://github.com/HotelsDotCom/beeju)
 
 ### Unsorted
 * [Database manager for Hive](https://github.com/flaminem/flamy)
